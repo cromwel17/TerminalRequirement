@@ -1,0 +1,3 @@
+username,grade,story_idx,q_idx,score,xp,rank,timer_seconds,story_order
+trixia,6,0,0,0,0,Novice Pilot,4,"[0, 7, 9, 6, 3, 5, 2, 8, 4, 1]"
+cromwell1,4,0,1,0,0,Novice Pilot,24,"[7, 0, 2, 4, 8, 5, 6, 1, 3, 9]"
